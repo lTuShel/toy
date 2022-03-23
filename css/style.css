@@ -1,0 +1,55 @@
+::-webkit-scrollbar {
+  width: 0;
+}
+
+body {
+    background: linear-gradient(to top, #5da130, #00bfff );
+}
+
+#scrol {
+    height: 120000px;
+}
+
+.sk {
+    margin-top: 160px;
+    margin-left: 26%;
+}
+.priv {
+    text-align: center;
+    color:rgba(72,6,177,0.95) 
+}
+.xm {
+    font-size: 30pt;
+    margin-top: 10000px;
+    text-align: right;
+    color:rgba(72,6,177,0.95) 
+}
+
+.xmm {
+    margin-right: 100px;
+    margin-top: 5000px;
+    text-align: right;
+}
+.kot {
+    margin-top: 92200px 
+}
+
+.sm {
+    font-size: 40pt;
+    text-align: center;
+}
+
+.kit {
+    text-align: center;
+}
+
+.cot {
+   text-align: center;  
+}
+
+.cot img {
+    margin: 25px;
+    max-width: 500px;
+    border: 2px solid pink;
+    
+}
